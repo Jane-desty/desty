@@ -1,36 +1,34 @@
-# desty
+# Desty
 
-![desty company image](./assets/desty-logo.png)
+<img src="./desty_logo.png" alt="desty company image" width="180">
 
-Welcome to the official page of **desty** — a modern company focused on digital solutions, automation, and smart technology for businesses.
+Welcome to the official page of **desty** — a modern platform focused on dating, relationships, and compatibility.
 
 ## About Us
 
-**desty** helps businesses improve their processes through modern digital tools, automation, and artificial intelligence solutions. We create practical, reliable, and scalable systems that help companies save time, reduce manual work, and grow more efficiently.
+**desty** helps people build meaningful connections through a thoughtful approach to dating, communication, and relationship compatibility.
 
-Our goal is to make technology simple, useful, and accessible for businesses of different sizes.
+We believe that strong relationships start with understanding — understanding yourself, your values, your emotional needs, and the kind of person who truly fits your life.
+
+Our goal is to make dating more intentional, comfortable, and meaningful.
 
 ## What We Offer
 
-- Business process automation
-- AI-powered tools and assistants
-- Workflow optimization
-- Custom software solutions
-- Integration of digital services and platforms
-- Practical technology consulting for businesses
+- Dating and relationship-focused digital experiences
+- Compatibility-based matching concepts
+- Tools for better self-understanding
+- Relationship insights and emotional connection guidance
+- A modern approach to meaningful communication
+- Support for people looking for serious and authentic connections
 
-## Why Choose desty
+## Our Mission
 
-- Modern and flexible approach
-- Focus on real business results
-- Simple and clear digital solutions
-- Reliable implementation
-- Support for automation and AI-based workflows
+Our mission is to help people find better connections by combining modern technology with a deeper understanding of relationships, values, and compatibility.
 
 ## Contact Us
 
-- Email: ilyasrap3d@gmail.com
-- GitHub: [desty](https://github.com/)
+- Email: 4eztovka.stroptivaya@gmail.com
+- GitHub: [desty](https://github.com/Jane-desty/desty)
 
 ## Legal Information
 
