@@ -1,10 +1,13 @@
 # Terms of Use
+<img src="./desty_logo.png" alt="Desty app icon" width="80">
 
-**Last updated:** May 18, 2026
+**Last updated:** May 19, 2026
+
+These Terms of Service apply to **Desty**.
 
 ## 1. General Provisions
 
-These Terms of Use govern the relationship between users and **desty** when visiting our website, social media pages, and using our content or digital services.
+These Terms govern your access to and use of **Desty**, including our website, TikTok publisher interface, and related content posting features.
 
 By accessing or using **desty**, You agree to follow these Terms of Use. If You do not agree with these terms, please do not use our website, social media pages, or services.
 
