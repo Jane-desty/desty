@@ -25,6 +25,12 @@ Our goal is to make dating more intentional, comfortable, and meaningful.
 
 Our mission is to help people find better connections by combining modern technology with a deeper understanding of relationships, values, and compatibility.
 
+## Connect with TikTok
+
+Use our TikTok Publisher page to connect your TikTok account and upload or publish original Desty videos.
+
+[Connect TikTok Account](./publisher.html)
+
 ## Contact Us
 
 - Email: 4eztovka.stroptivaya@gmail.com
